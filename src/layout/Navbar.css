@@ -1,0 +1,14 @@
+.na{
+    width: 100%;
+    height: 100px;
+    
+}
+.navbutton{
+    justify-content: center;
+ 
+    
+}
+.navbutton-div{
+    display: flex;
+    justify-content: center;
+}
